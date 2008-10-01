@@ -17,7 +17,7 @@
 ## X-Donate: Send me UDE Point codes, a Murky Code, or donate a few bucks/hours at your local animal shelter.
 
 ## Interface: 20400
-## Version: 1.4
+## Version: 1.41
 ## X-credits: Funkydude, Saroz
 ## X-Revision: $Rev: 78256 $
 ## X-Date: $Date: 2008-07-11 15:57:18 -0400 (Fri, 11 Jul 2008) $
@@ -25,9 +25,11 @@
 ## X-Category: Raid
 ## X-Localizations: enUS, frFR, zhCN, zhTW, deDE, koKR, esES
 ## X-Website: http://www.wowwiki.com/BigWigs_KalecgosHealth/
-## X-Feedback: http://www.curse.com/downloads/details/12867/
+## X-Feedback: http://wow.curse.com/downloads/wow-addons/details/bwkh.aspx
 ## X-AceForum: 11354
 ## X-RelSite-Curse: 12867
+## X-RelSite-WoWI: 9196
+## X-RelSite-WoWUI: 6458
 
 ## X-BigWigs-LoadInZone: Sunwell Plateau
 
