@@ -1,0 +1,7 @@
+# Package file as
+package-as: BigWigs_KalecgosHealth
+
+# File list to ignore:
+ignore:
+ - .pkgmeta
+
