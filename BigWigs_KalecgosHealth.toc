@@ -16,8 +16,8 @@
 ## X-License: MIT modified with notification clause
 ## X-Donate: Send me UDE Point codes, a Murky Code, or donate a few bucks/hours at your local animal shelter.
 
-## Interface: 20400
-## Version: 1.42
+## Interface: 30000
+## Version: 1.5
 ## X-credits: Funkydude, Saroz
 ## X-Revision: $Rev: 78256 $
 ## X-Date: $Date: 2008-07-11 15:57:18 -0400 (Fri, 11 Jul 2008) $

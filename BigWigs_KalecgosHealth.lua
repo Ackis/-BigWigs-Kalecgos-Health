@@ -217,26 +217,29 @@ function mod:UpdateHealthText()
 end
 
 function mod:Update()
+
 	for i = 1, GetNumRaidMembers() do
+
 		local unitidtarget = "raid" .. i .. "target"
 		if UnitExists(unitidtarget) then
 			if UnitName(unitidtarget) == boss then
 				if UnitIsEnemy("player", unitidtarget) then
-					self:Sync("KalecgosHealth", UnitHealth(unitidtarget))
+					self:Sync("KalecgosHealth", ("%.1f"):format(UnitHealth(unitidtarget)/UnitHealthMax(unitidtarget)*100))
 				else
-					self:Sync("KalecgosHealthNPC", UnitHealth(unitidtarget))
+					self:Sync("KalecgosHealthNPC", ("%.1f"):format(UnitHealth(unitidtarget)/UnitHealthMax(unitidtarget)*100))
 				end
 			elseif UnitName(unitidtarget) == sath then
-				self:Sync("SathHealth", UnitHealth(unitidtarget))
+				self:Sync("SathHealth", ("%.1f"):format(UnitHealth(unitidtarget)/UnitHealthMax(unitidtarget)*100))
 			end
 		end
+
 	end
-end
+end 
 
 function mod:SetupFrames()
 	BWKalecHealth = CreateFrame("Frame", "BWKalecHealthDisplay", UIParent)
 
-	BWKalecHealth:SetWidth(190)
+	BWKalecHealth:SetWidth(200)
 	BWKalecHealth:SetHeight(75)
 
 	BWKalecHealth:SetBackdrop({
