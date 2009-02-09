@@ -1,0 +1,10 @@
+# Package file as
+package-as: BigWigs_KalecgosHealth
+
+# File list to ignore:
+ignore:
+ - .pkgmeta
+ - dlcount
+
+externals:
+ dlcount: svn://svn.curseforge.net/wow/dlcount/mainline/trunk
