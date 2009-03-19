@@ -1,0 +1,28 @@
+== What it does ==
+A small addon which displays both Kalecgos and Sathrovarr the Corruptor hit points during the encounter.  Requires BigWigs to work.
+
+== Where to get it ==
+*[http://www.wowace.com/projects/bwkh/files/ WoW Ace] - Often Beta quality
+*[http://wow.curse.com/downloads/wow-addons/details/bwkh.aspx Curse ] - Most updated stable version
+*[http://wowui.worldofwar.net/?p=mod&m=6458 WoW UI] - Stable version
+*[http://www.wowinterface.com/downloads/info9196-BigWigsKalecgosHealth.html WoW Interface] - Stable version
+
+== How to get it to work ==
+You need to enable it in the Big Wigs options.
+
+=== Commands ===
+There is no interface, it just works.
+
+== Known Issues ==
+All known issues will be kept at the [http://www.wowace.com/projects/bwkh/tickets/ WoW Ace] tracker.
+
+Please use the [http://www.wowace.com/projects/bwkh/tickets/ WoW Ace] tracker to file bug reports.
+
+== Wish List ==
+Please use the [http://www.wowace.com/projects/bwkh/tickets/ WoW Ace] tracker to add suggestions and feature requests.
+
+== Bug Reporting ==
+Please use the [http://www.wowace.com/projects/bwkh/tickets/ WoW Ace] tracker to file bug reports.
+
+== Wiki ==
+[http://www.wowwiki.com/BigWigs_KalecgosHealth WoW Wiki]
