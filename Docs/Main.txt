@@ -4,7 +4,6 @@ A small addon which displays both Kalecgos and Sathrovarr the Corruptor hit poin
 == Where to get it ==
 *[http://www.wowace.com/projects/bwkh/files/ WoW Ace] - Often Beta quality
 *[http://wow.curse.com/downloads/wow-addons/details/bwkh.aspx Curse ] - Most updated stable version
-*[http://www.wowinterface.com/downloads/info9196-BigWigsKalecgosHealth.html WoW Interface] - Stable version
 
 == How to get it to work ==
 You need to enable it in the Big Wigs options.
