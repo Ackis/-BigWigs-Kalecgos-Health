@@ -1,10 +1,15 @@
-# Package file as
 package-as: BigWigs_KalecgosHealth
 
 license-output: LICENSE.txt
 
-# File list to ignore:
+optional-dependencies:
+ - bigwigs
+
 ignore:
  - .pkgmeta
  - .docmeta
  - Docs
+
+tools-used:
+ - dlcount
+ - querier
