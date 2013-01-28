@@ -1,12 +1,14 @@
 ## Title: Big Wigs |cffff0000+|r|cffffffffKalecgos Health|r
 ## Title-zhCN: Big Wigs |cffff0000+|r|cffffffff卡雷苟斯生命监视模块|r
 ## Title-zhTW: Big Wigs |cffff0000+|r|cffffffff卡雷茍斯生命監視模組|r
+## Title-itIT: Big Wigs |cffff0000+|r|cffffffff卡雷茍斯生命監視模組|r
 
 ## Notes: Displays both Kalecgos and Sathrovarr the Corruptor hit points during the encounter.
 ## Notes-enUS: Displays both Kalecgos and Sathrovarr the Corruptor hit points during the encounter.
 ## Notes-zhCN: 显示卡雷苟斯与腐蚀者萨索瓦尔生命
 ## Notes-zhTW: 顯示卡雷茍斯與『墮落者』塞斯諾瓦生命值
 ## Notes-frFR: Affiche les points de vie de Kalecgos et de Sathrovarr le Corrupteur pendant la rencontre.
+## Notes-itIT: Mostra i punti vita di Kalecgos e di Sathrovarr il COrruttore durante l'incontro.
 
 ## Author: Ackis
 ## eMail: ackis AT shaw DOT ca

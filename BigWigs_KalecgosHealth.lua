@@ -119,6 +119,15 @@ L:RegisterTranslations("ruRU", function() return {
 	["Friendly"] = "Friendly",
 	["font"] = "Fonts\\FRIZQT__.TTF",
 } end )
+L:RegisterTranslations("itIT", function() return {
+	on = "On",
+	on_desc = "Attiva o disattiva BigWigs_KalecHealth.",
+	["|cff777777Unknown|r"] = "|cff777777Sconosciuto|r",
+	["Boss Health"] = "Salute Boss",
+	["Dragon"] = "Dragone",
+	["Friendly"] = "Amichevole",
+	["font"] = "Fonts\\FRIZQT__.TTF",
+} end )
 
 ----------------------------------
 --      Module Declaration      --
