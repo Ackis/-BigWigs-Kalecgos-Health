@@ -8,7 +8,7 @@
 ## Notes-zhCN: 显示卡雷苟斯与腐蚀者萨索瓦尔生命
 ## Notes-zhTW: 顯示卡雷茍斯與『墮落者』塞斯諾瓦生命值
 ## Notes-frFR: Affiche les points de vie de Kalecgos et de Sathrovarr le Corrupteur pendant la rencontre.
-## Notes-itIT: Mostra i punti vita di Kalecgos e di Sathrovarr il COrruttore durante l'incontro.
+## Notes-itIT: Mostra i punti vita di Kalecgos e di Sathrovarr il Corruttore durante l'incontro.
 
 ## Author: Ackis
 ## eMail: ackis AT shaw DOT ca
