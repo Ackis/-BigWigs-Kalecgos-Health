@@ -1,7 +1,7 @@
 ## Title: Big Wigs |cffff0000+|r|cffffffffKalecgos Health|r
 ## Title-zhCN: Big Wigs |cffff0000+|r|cffffffff卡雷苟斯生命监视模块|r
 ## Title-zhTW: Big Wigs |cffff0000+|r|cffffffff卡雷茍斯生命監視模組|r
-## Title-itIT: Big Wigs |cffff0000+|r|cffffffff卡雷茍斯生命監視模組|r
+## Title-itIT: Big Wigs |cffff0000+|r|cffffffffKalecgos Health|r
 
 ## Notes: Displays both Kalecgos and Sathrovarr the Corruptor hit points during the encounter.
 ## Notes-enUS: Displays both Kalecgos and Sathrovarr the Corruptor hit points during the encounter.
@@ -21,7 +21,7 @@
 ## X-Date: @file-date-iso@
 
 ## X-Category: Raid
-## X-Localizations: enUS, frFR, zhCN, zhTW, deDE, koKR, esES
+## X-Localizations: enUS, frFR, zhCN, zhTW, deDE, koKR, esES, itIT
 ## X-Website: http://www.wowwiki.com/BigWigs_KalecgosHealth/
 ## X-Feedback: http://wow.curse.com/downloads/wow-addons/details/bwkh.aspx
 
