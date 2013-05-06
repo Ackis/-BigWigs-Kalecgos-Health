@@ -12,10 +12,13 @@
 
 ## Author: Ackis
 ## eMail: ackis AT shaw DOT ca
+## X-Author-Faction: Horde
+## X-Author-Server: Hyjal US
 ## X-Donate: Send me UDE Point codes, a Murky Code, or donate a few bucks/hours at your local animal shelter.
 
-## Interface: 30000
-## Version: 1.51
+## Interface: 50200
+## X-Compatible-With: 50200
+## Version: 1.52
 ## X-credits: Funkydude, Saroz
 ## X-Revision: @project-revision@
 ## X-Date: @file-date-iso@
