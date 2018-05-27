@@ -4,7 +4,6 @@
 Kalecgos Health
 $Date$
 $Rev$
-
 Author: Ackis on Illidan US Horde
 ****************************************************************************************
 
@@ -119,6 +118,7 @@ L:RegisterTranslations("ruRU", function() return {
 	["Friendly"] = "Friendly",
 	["font"] = "Fonts\\FRIZQT__.TTF",
 } end )
+
 L:RegisterTranslations("itIT", function() return {
 	on = "On",
 	on_desc = "Attiva o disattiva BigWigs_KalecHealth.",
@@ -138,7 +138,8 @@ mod.synctoken = name
 mod.zonename = BZ["Sunwell Plateau"]
 mod.enabletrigger = boss
 mod.toggleoptions = {"on"}
-mod.revision = tonumber(("$Revision$"):sub(12, -3))
+#mod.revision = tonumber(("$Revision$"):sub(12, -3))
+mod.revision = tonumber(("$Revision: 81682 $"):sub(12, -3))
 mod.external = true
 
 ------------------------------
